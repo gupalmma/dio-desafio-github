@@ -1,0 +1,3 @@
+Neste arquivo, incluirei os conhecimentos adquiridos em back end ao criar um API com Node.Js. 
+
+Confesso que é o conteudo que mais me interesso até o momento e estou entusiasmado em aprende-lo

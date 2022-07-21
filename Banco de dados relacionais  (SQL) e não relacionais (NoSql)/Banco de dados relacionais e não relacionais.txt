@@ -1,0 +1,1 @@
+Neste arquivo, incluirei os conhecimentos em dados relacionais (SQL) e não relacionais (NoSql)

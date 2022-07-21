@@ -1,0 +1,1 @@
+Neste arquivo, incluirei os conhecimentos adquiridos em Linguagem de programação javascript
